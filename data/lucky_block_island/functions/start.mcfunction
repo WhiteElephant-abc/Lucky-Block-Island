@@ -12,3 +12,5 @@ function lucky_block_island:redstone
 function lucky_block_island:redstone2
 setworldspawn 0 1 0
 gamerule spawnRadius 0
+tellraw @a [{"text": "本数据包使用 ","bold": true},{"text":"GNU GPL","color":"blue","underlined":true,"italic":true,"clickEvent":{"action":"open_url","value":"https://www.gnu.org/licenses/gpl-3.0.txt"}},{"text": " 协议开源","bold": true}]
+tellraw @a ""
