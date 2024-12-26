@@ -1,6 +1,6 @@
 **本数据包会在 0 0 0 处不断生成幸运方块**
 
-如果遇到任何问题，请点击 [这里](https://github.com/WhiteElephant-abc/anvil-falling/issues/new) 反馈
+如果遇到任何问题，请点击 [这里](https://github.com/WhiteElephant-abc/Lucky-Block-Island/issues/new/choose) 反馈
 
 如果无法访问，可点击 [这里](https://steampp.net/) 下载加速器
 
